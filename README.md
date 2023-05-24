@@ -146,8 +146,3 @@ List of allowed functions and system calls
  * _getenv
  * _getline
  * _strtok
-
-
-<p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png" alt="Holberton School logo">
-</p>
